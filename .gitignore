@@ -1,0 +1,38 @@
+# 忽略 Windows 相关文件
+*.exe
+*.dll
+*.obj
+*.log
+*.blf
+*.regtrans-ms
+
+# 忽略用户目录文件
+/AppData/
+/NTUSER.DAT
+/NTUSER.DAT*
+/ntuser.dat.LOG*
+/ntuser.ini
+
+# 忽略其他不需要的文件和目录
+*.tmp
+*.bak
+.VirtualBox/
+.bash_history
+.config/
+.dotnet/
+.leigod/
+.lesshst
+.librarymanager/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
